@@ -82,6 +82,6 @@ Watch the complete project build and demonstration on YouTube:
 👩‍💻 Author
 
 Aynur Nouri Anwar
-Computer Engineering Student | Arduino Enthusiast | Maker
+Computer Engineering Student
 ---
 ⭐ If you found this project helpful, consider giving it a star!
